@@ -1,0 +1,21 @@
+Nama 		: Mathin Cosesa
+NIM		: 1137040132
+Kelas		: IF.C
+Email		: marthincs@gmail.com
+Nama Program	: Sistem Informasi Jual Beli Mobil
+
+
+INFO INSTALASI
+------------------
+- Extract file .zip 1137050132_marthin cosesa_IF.C akan tercipta folder dengan nama "1137050132_marthin cosesa_IF.C"
+- Pada folder tersebut terdapat 2 folder "mobil" dan "database"
+- Copy folder "mobil" ke dalam dokumen root server Anda, misalnya htdocs (Xampp) atau www (AppServ, Wamp)
+- Buat database "kreditmobil" di http://localhost/phpmyadmin
+- Import file kreditmobil.sql ke dalam database yang baru saja Anda buat
+- Akses http://localhost/mobil
+
+
+Info Login:
+==============
+Username : marthincs
+Password : admin
